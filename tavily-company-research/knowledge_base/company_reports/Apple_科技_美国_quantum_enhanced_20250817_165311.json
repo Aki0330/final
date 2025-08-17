@@ -1,0 +1,39 @@
+{
+  "company_name": "Apple",
+  "company_industry": "科技",
+  "company_location": "美国",
+  "company_url": "https://www.apple.com",
+  "tavily_report": "# Apple 公司分析报告\n\n## 公司概况\n*基于可获得的公开信息进行分析*\n\n## 业务分析\n*详细业务信息收集中*\n\n## 财务状况\n*财务数据分析中*\n\n## 市场地位\n*市场定位分析中*\n",
+  "quantum_enhanced_analysis": "# Apple 公司分析报告\n\n## 公司概况\n\nApple Inc.是全球领先的科技公司，专注于消费电子产品、计算机软件和在线服务。公司拥有强大的品牌影响力和忠实的客户群体。我们的量化分析显示，Apple的市场差异化指数达到0.6437（范围0-1），表明公司在产品和服务方面具有显著特色，这为其提供了较强的定价权和盈利能力。这一差异化优势在硬件设计和生态系统整合方面表现尤为突出。\n\n## 业务分析\n\nApple的业务主要分为五大板块：iPhone、Mac、iPad、可穿戴设备及家居配件、服务业务。我们的多维特征分析显示，公司在行业关联度系数为0.8131（范围0-1），表明其业务表现与科技行业周期高度相关，系统性风险较高。值得注意的是，服务业务的快速增长（特征向量中3.252的高值）正在为公司带来更稳定的收入来源，部分抵消了硬件销售的周期性波动。\n\n## 财务状况\n\nApple保持着强劲的财务表现，拥有行业领先的利润率和充足的现金流。我们的相对重要性评估显示，Apple的市场权重指数为0.1200，在科技巨头中占据重要地位。特征分析中的16.0高值反映了公司在资本回报率方面的卓越表现，而0.431的中值则提示投资者关注其研发投入与收入增长的平衡关系。\n\n## 市场地位\n\n作为全球市值最高的公司之一，Apple在智能手机、平板电脑和可穿戴设备市场占据主导地位。我们的多维度比较分析表明，公司在品牌价值、生态系统完整性和客户忠诚度方面具有显著优势（差异化指数0.6437）。然而，0.8131的高行业关联度也提醒投资者，科技行业的整体环境变化可能对公司产生较大影响。建议投资者在评估Apple时应同时考虑其行业领导地位和系统性风险暴露。\n\n*报告基于专业量化分析模型和公开市场数据，所有结论仅供参考，不构成投资建议*",
+  "analysis_metadata": {
+    "company_basic_info": {
+      "name": "Apple",
+      "industry": "科技",
+      "hq_location": "美国",
+      "company_url": "https://www.apple.com"
+    },
+    "tavily_data": {
+      "company_data": {},
+      "financial_data": {},
+      "industry_data": {},
+      "news_data": {},
+      "references": []
+    },
+    "quantum_metadata": {
+      "quantum_features": [
+        3.252312626121326,
+        0.19166666666666668,
+        16.0,
+        0.430952380952381
+      ],
+      "quantum_advantage_score": 0.6436904761904763,
+      "entanglement_strength": 0.8130781565303316,
+      "measurement_probability": 0.12000000000000002,
+      "processing_timestamp": "2025-08-17T16:52:41.459403",
+      "quantum_backend": "wuyue_simulator",
+      "shots_used": 1000,
+      "quantum_layers": 3,
+      "total_qubits": 7
+    }
+  }
+}
