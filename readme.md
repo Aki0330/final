@@ -107,7 +107,7 @@ pip install -r requirements.txt
 
 ### 4. 配置环境变量
 
-创建 `.env` 文件，并配置：
+tavily目录下创建 `.env` 文件，并配置：
 
 ```
 TAVILY_API_KEY=your_api_key
@@ -120,7 +120,7 @@ MODEL_NAME=your_model_name
 
 ### ⚙️ 环境变量配置示例
 
-在项目根目录创建 `.env` 文件，并参考以下示例填写：
+在qmacro目录创建 `.env` 文件，并参考以下示例填写：
 
 ```env
 # Tavily API 配置
@@ -153,6 +153,7 @@ OPENAI_API_KEY=your_openai_api_key
 
 ```bash
 # 启动整个系统
+conda activate py3918
 python run_all.py
 ```
 
